@@ -1,0 +1,4 @@
+Hello I'm squash cmomit file
+Content for push 1
+Content for push 2
+Content for push 3
